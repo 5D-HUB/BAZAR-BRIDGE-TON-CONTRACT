@@ -1,0 +1,1 @@
+export * from '../build/BazarBridgeJetton/tact_BazarBridgeJetton';
